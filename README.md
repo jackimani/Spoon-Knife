@@ -40,3 +40,11 @@ is shown where we experiment with it on [Github](https://pages.github.com/).
 ## Relative links
 A relative link is a link that references the current working directory. If is a link, we use the same way as link in markdown where we have a a`[]` and link in brackets `()`, style for easy remembering.
 
+## Images
+to add images, use the following hyen `!`, then square brackets with name of the picturem,then put the url in normal brackets such
+as the beautiful pic shown here of ![Flamingo](https://cdn.pixabay.com/photo/2022/06/26/14/53/bird-7285669_960_720.jpg)
+## Lists
+You can create a list when you preced the text with either `-` or `*`, such as
+- Kaka
+- chom 
+- Kimani
